@@ -1,6 +1,6 @@
 # Grover's Algorithm 
 
-![Project Collab](https://colab.research.google.com/drive/1ywRyp5Edu8mw9DlY6GhdcdAiW842kycs?usp=sharing)
+[Project Collab](https://colab.research.google.com/drive/1ywRyp5Edu8mw9DlY6GhdcdAiW842kycs?usp=sharing)
 
 Work developed for the **Qiskit Fall Fest 2025 Hackathon**, where my team and I implemented **Grover's Algorithm** and performed measurements on random numbers of different bit sizes.
 
